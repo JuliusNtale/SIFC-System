@@ -29,7 +29,7 @@ This project is an automated attendance system that uses facial recognition tech
 
 1. Clone the repository using the following command:
     ```bash
-   git clone https://github.com/aadi1011/SymbiGate.git
+   git clone https://github.com/JuliusNtale/SIFC-System.git
     ```
 
 3. Import the project into your IDE (Eclipse, IntelliJ, etc.)
